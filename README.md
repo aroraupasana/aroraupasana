@@ -53,7 +53,6 @@
     <br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="30px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="30px" />
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30px" />
   </kbd>
 </p>
@@ -67,10 +66,17 @@
   </a>
 <h2 align="center">My Github Stats</h2>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroraupasana&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
-<br>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aroraupasana&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+<h2 align="center">GitHub Stats</h2>
+
+<div align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroraupasana&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb" alt="Top Languages" />
+  <br><br>
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=aroraupasana&count_private=true&show_icons=true&line_height=21&theme=github_dark" alt="GitHub Stats" />
+</div>
+
 <br>
 <br>
 
