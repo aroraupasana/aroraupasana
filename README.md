@@ -17,7 +17,7 @@
 
 <img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
-### I am a Full Stack Developer at Helium
+### I am a Frontend Developer
 - 🌱 I’m currently learning React Native.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
