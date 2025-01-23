@@ -75,7 +75,7 @@
 
 ### 📊 Top Languages:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroraupasana&layout=compact" alt="Top Languages" />
 </p>
 
 ---
