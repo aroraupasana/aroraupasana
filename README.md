@@ -5,6 +5,14 @@
 <h3 align="center">A passionate Frontend Developer. Love to build Mobile and Web Applications with latest tech available😄
 </h3>
 
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aroraupasana&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=thhmoc67&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <br>
 
 <img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
@@ -39,25 +47,25 @@
   </a>
   </kbd>
   <kbd>
-    <kbd>Back-end</kbd>
-    <br>
-    <br>
-    <a href="https://expressjs.com" target="_blank">
+<!--     <kbd>Back-end</kbd> -->
+<!--     <br>
+    <br> -->
+<!--     <a href="https://expressjs.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
       alt="express"
       width="40"
       height="40"
     />
-  </a>
-      <a href="https://nodejs.org" target="_blank">
+  </a> -->
+<!--       <a href="https://nodejs.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
       width="40"
       height="40"
     />
-  </a>
+  </a> -->
       <a href="https://postman.com" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
