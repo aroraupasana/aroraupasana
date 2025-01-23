@@ -34,32 +34,8 @@
   </a>
   </kbd>
   <kbd>
-<!--     <kbd>Back-end</kbd> -->
-<!--     <br>
-    <br> -->
-<!--     <a href="https://expressjs.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      width="40"
-      height="40"
-    />
-  </a> -->
-<!--       <a href="https://nodejs.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a> -->
-      <a href="https://postman.com" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
+
+
   </a>
   </kbd>
    <kbd>
@@ -166,5 +142,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=aroraupasana&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
 <br>
 <br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aroraupasana&theme=holi-theme">
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aroraupasana&theme=holi-theme"> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aroraupasana&count_private=true&show_icons=trueline_height=21&theme=github_dark">
+
 </p>
