@@ -6,7 +6,7 @@
 - 🌱 **Currently Learning:** **React Native**.  
 - 👯 **Open to Collaborate:** With other **developers**.  
 - 💬 **Ask Me About:** **Dart, TypeScript, React, React Native, Flutter, and Git**.  
-- 🎯 **Fun Fact:** I love building web and mobile apps and learning new technologies!  
+- 🎯 **Fun Fact:** I love building mobile apps and experimenting with new technologies!  
 - 📬 **How to Reach Me:** [Let's get in touch!][linkedin]  
 
 ---
@@ -67,12 +67,20 @@
 
 ### ▶ Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aroraupasana&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" width="48%" />
+</p>
+
+---
+
+### 📊 Top Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact" alt="Top Languages" />
 </p>
 
 ---
 
 ### 📊 Fun Widgets:
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aroraupasana&theme=radical" alt="Summary Card" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-github-username&theme=radical" alt="Summary Card" width="90%" />
 </p>
