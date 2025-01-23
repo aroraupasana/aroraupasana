@@ -1,6 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Aakash!+👋;I'm+a+Front+End+Developer;I'm+a+Mobile+App+Developer;;I'm+a+Frontend+Developer)
-
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFFFF&size=30&lines=Hey!+It's+Upasana!+👋;I'm+a+Front+End+Developer;I'm+a+Mobile+App+Developer;;I'm+a+Frontend+Developer)
 
 <img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
@@ -12,7 +10,7 @@
 
 <h3 align="left">▶ Connect with me:</h3>
   <p>
-    <a href="https://www.linkedin.com/in/aroraupasana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgdsandakalum/)](https://www.linkedin.com/in/hgdsandakalum/"></a>
+    <a href="https://www.linkedin.com/in/upasana-arora00" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/upasana-arora00/"></a>
   </p>
 </br>
 
