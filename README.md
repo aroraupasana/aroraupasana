@@ -6,7 +6,7 @@
 - 🌱 **Currently Learning:** **React Native**.  
 - 👯 **Open to Collaborate:** With other **developers**.  
 - 💬 **Ask Me About:** **Dart, TypeScript, React, React Native, Flutter, and Git**.  
-- 🎯 **Fun Fact:** I love building mobile apps and experimenting with new technologies!  
+- 🎯 **Fun Fact:** I love building web and mobile apps and experimenting with new technologies!  
 - 📬 **How to Reach Me:** [Let's get in touch!][linkedin]  
 
 ---
